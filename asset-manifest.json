@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/latamangeshkar/static/css/main.48804265.css",
-    "main.js": "/latamangeshkar/static/js/main.861228fc.js",
+    "main.css": "/latamangeshkar/static/css/main.89909151.css",
+    "main.js": "/latamangeshkar/static/js/main.9bd17fa8.js",
     "static/js/787.363e18e8.chunk.js": "/latamangeshkar/static/js/787.363e18e8.chunk.js",
-    "static/media/image3.jpg": "/latamangeshkar/static/media/image3.ea30ce46aff0b56054f2.jpg",
-    "static/media/image1.jpg": "/latamangeshkar/static/media/image1.9927e005337118302a61.jpg",
-    "static/media/image2.png": "/latamangeshkar/static/media/image2.6e48678e212cfab37ebf.png",
+    "static/media/image3.jpg": "/latamangeshkar/static/media/image3.588f8f2ea0aea49f2e22.jpg",
+    "static/media/image1.jpg": "/latamangeshkar/static/media/image1.819fe5c53123c40fde99.jpg",
+    "static/media/image2.jpg": "/latamangeshkar/static/media/image2.08f29b56dba64bb0b5c9.jpg",
     "static/media/logo.svg": "/latamangeshkar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/latamangeshkar/index.html",
-    "main.48804265.css.map": "/latamangeshkar/static/css/main.48804265.css.map",
-    "main.861228fc.js.map": "/latamangeshkar/static/js/main.861228fc.js.map",
+    "main.89909151.css.map": "/latamangeshkar/static/css/main.89909151.css.map",
+    "main.9bd17fa8.js.map": "/latamangeshkar/static/js/main.9bd17fa8.js.map",
     "787.363e18e8.chunk.js.map": "/latamangeshkar/static/js/787.363e18e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48804265.css",
-    "static/js/main.861228fc.js"
+    "static/css/main.89909151.css",
+    "static/js/main.9bd17fa8.js"
   ]
 }
