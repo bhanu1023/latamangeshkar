@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktributeapp=self.webpackChunktributeapp||[]).push([[473],{7473:function(e,t,r){r.r(t),r.d(t,{default:function(){return a}});var n=r(1889),s=r(184),a=function(){return(0,s.jsx)(n.ZP,{container:!0,className:"footer-1",justifyContent:"center",children:(0,s.jsx)("div",{className:"footer-item1",children:(0,s.jsx)("p",{className:"copyright",children:(0,s.jsx)("span",{children:"Copyright \xa9 2022 latamageshkar - All Rights Reserved."})})})})}}}]);
+//# sourceMappingURL=473.7cc6e7e4.chunk.js.map
